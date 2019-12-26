@@ -15,7 +15,11 @@
 }
 
 .App-header {
+<<<<<<< HEAD
   background-color: #001100f0;
+=======
+  background-color: #f06010;
+>>>>>>> feature-3
   min-height: 100vh;
   display: flex;
   flex-direction: column;
